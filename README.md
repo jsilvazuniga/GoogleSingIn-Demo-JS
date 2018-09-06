@@ -1,5 +1,11 @@
 "# GoogleSingIn-Demo" 
 
+#PARA PROBARLO
+ejecutar
+npm install -> para recuperar las dependencias
+npm run dev
+
+#NOTAS DEL DESARROLLO
 /*creando servidor rapidamente */
 https://github.com/johnpapa/lite-server
 
